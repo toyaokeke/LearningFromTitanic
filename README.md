@@ -4,7 +4,7 @@ Some sample ML models for predicting survival of the Titanic.
 
 Part of Kaggle Titanic Competition. Includes:
 
-SVM
+### SVM
 
 ### Logistic Regression
 
