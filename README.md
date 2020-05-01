@@ -1,5 +1,7 @@
 # LearningFromTitanic
 
+## By Toya Okeke, Stephanie Walsh and Chelsea Johnson
+
 Some sample ML models for predicting survival of the Titanic.
 
 Part of Kaggle Titanic Competition. Includes:
